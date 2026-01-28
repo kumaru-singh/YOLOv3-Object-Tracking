@@ -1,0 +1,8 @@
+tensorflow
+numpy
+opencv-python==4.2.0.32
+lxml
+tqdm
+seaborn
+pillow
+tensorflow-gpu>=2.4.0
